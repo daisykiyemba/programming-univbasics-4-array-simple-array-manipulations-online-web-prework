@@ -33,7 +33,7 @@ end
   
   
   
-def using_insert(array)
+def using_insert(array, new_array)
   array.insert(array,4)
   
 end
