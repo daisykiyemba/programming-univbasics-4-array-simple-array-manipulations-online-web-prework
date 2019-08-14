@@ -33,8 +33,8 @@ end
   
   
   
-def using_insert(array, alpha)
-  array.insert(3, array)
+def using_insert(array)
+  array.insert(array,4)
   
 end
   
