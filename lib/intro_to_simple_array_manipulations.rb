@@ -34,7 +34,7 @@ end
   
   
 def using_insert(array, new_array)
-  array.insert(array,4)
+  array.insert(3, new_array)
   
 end
   
